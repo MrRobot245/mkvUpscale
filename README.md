@@ -7,4 +7,6 @@ Ex. A 1280x540 video will be upscaled to 1280x720 to remove black bars from plex
 
 **Does stretch video, not crop
 
-Also included is a script for Radarr to get the full file path and trigger the script
+Also included is a script for Radarr to get the full file path and trigger the script (pp.php)
+
+The conversion can also be run with python newHand.py path/to/file.mkv but it expects the Radarr current naming convention.
