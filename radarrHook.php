@@ -28,6 +28,6 @@ if ($path != null) {
         }
 
         // Now execute the sickbeard mp4 converter so we can convert the file to an mp4 with the settings we've set
-        exec('/usr/bin/python /root/newHand.py "'.$my_path.'"');
+        exec('/usr/bin/python /root/convert.py "'.$my_path.'"');
     }
 }
