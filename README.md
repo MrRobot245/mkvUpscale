@@ -15,4 +15,4 @@ Based on the screen size and bitrate, it will transcode the video to h.264/aac m
 
 Uses realitive file paths as everything is dockerized
 
-For radarr image with php included refer to: https://github.com/MrRobot245/docker-radarr
+For radarr image with php included refer to my [docker container](https://github.com/MrRobot245/docker-radarr).
