@@ -1,7 +1,7 @@
 # mkvUpscale
 
 
-Headless FFmpeg script to convert strip black bars from not true 720p or 1080p rips for plex.
+Headless FFmpeg script to transcode video and strip black bars from not true 720p or 1080p rips for Plex.
 
 Ex. A 1280x540 video will be upscaled to 1280x720 to remove black bars from plex
 
