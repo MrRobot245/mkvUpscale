@@ -11,7 +11,7 @@ Raddarr ENV paths are used to get the path for the video, script could be change
 
 ffprobe determines the width/height and bitrate of the video
 
-Based on the screen size and bitrate, it will transcode the video to h.264/aac mkv
+Based on the screen size and bitrate, it will transcode the video to h.264/ac3 mkv
 
 Uses realitive file paths as everything is dockerized
 
